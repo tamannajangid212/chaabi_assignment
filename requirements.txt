@@ -1,0 +1,10 @@
+langchain
+sentence_transformers
+torch
+ctransformers
+uvicorn
+fastapi
+faiss-gpu
+streamlit
+streamlit_chat
+
